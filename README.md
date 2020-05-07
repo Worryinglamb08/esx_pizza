@@ -1,2 +1,2 @@
 # esx_pizza
-script
+Türkçeleştirilmiş Pizzacı Mesleği Scripti.
